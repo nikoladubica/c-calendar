@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# compiler
+.vscode
+test.dSYM
+test
